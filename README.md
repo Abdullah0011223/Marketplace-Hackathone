@@ -1,2 +1,2 @@
-# Marketplace-Hackathone
-This E-Commerce is fully functional website!
+# GIAIC-Heckathon-3-Project
+ 
