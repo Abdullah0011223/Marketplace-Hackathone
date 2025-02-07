@@ -108,7 +108,7 @@ const Header: React.FC = () => {
                             href={index === 0 ? '/' : `/${navItem}`}
                             onClick={() => setSideBarDisplay(!sideBarDisplay)}
                             key={index}
-                            className={`font-bold hover:text-green-500 hover:-translate-y-1 transition-all duration-300 ease-in-out text-white leading-0 tracking-wider text-[1.1rem]`}
+                            className={`font-bold hover:text-green-500 hover:-translate-y-1 transition-all duration-300 ease-in-out text-black leading-0 tracking-wider text-[1.1rem]`}
                         >
                             {navItem}
                         </Link>
